@@ -1,2 +1,2 @@
 # PizzaWEB
-Webová aplikace pro pizzerii
+Webová aplikace pro pizzerku U Tondy
